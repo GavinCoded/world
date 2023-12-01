@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Sun Dec 09 19:14:24 CET 2018
+WorldName=Hypixel the pit
+LastSaved=1544379264770
